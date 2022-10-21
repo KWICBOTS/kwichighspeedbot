@@ -67,7 +67,7 @@ async def private_receive_handler(c: Client, m: Message):
             if user.status == enums.ChatMemberStatus.BANNED:
                 await c.send_message(
                     chat_id=m.chat.id,
-                    text="𝚈𝙾𝚄 𝙰𝚁𝙴 𝙱𝙰𝙽𝙽𝙴𝙳../**",
+                    text="ʏᴏᴜ ᴀʀᴇ 𝙱𝙰𝙽𝙽ᴇᴅ ʙᴇᴄᴀᴜsᴇ ᴏғ ᴠɪᴏʟᴀᴛɪɴɢ ʀᴜʟᴇs🙂../**",
                     disable_web_page_preview=True
                 )
                 return 
