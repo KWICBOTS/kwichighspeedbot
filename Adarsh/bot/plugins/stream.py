@@ -24,7 +24,7 @@ pass_db = Database(Var.DATABASE_URL, "ag_passwords")
 async def login_handler(c: Client, m: Message):
     try:
         try:
-            ag = await m.reply_text("Now send me password.\n\n If You don't know password buy from @kwicadmin \n\n(You can use /cancel command to cancel the process)")
+            ag = await m.reply_text("Now send me password.\n\n for password send 10rs to `sharun123@ybl` and send screen shot to @kwicadmin \n\(for running bot need contributions..unwanted message = ban + report)")
             _text = await c.listen(m.chat.id, filters=filters.text, timeout=90)
             if _text.text:
                 textp = _text.text
