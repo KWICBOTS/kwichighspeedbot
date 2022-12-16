@@ -46,12 +46,13 @@ login - to login if it's password protected
 
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 
-### Deploy on Heroku
+### Deploy on Render
 
-Press the below button to Fast deploy on Heroku
+Press the below button to Fast deploy on Render
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
-
+<a href="https://render.com/deploy?repo=https://github.com/KWICBOTS/kwichighspeedbot">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
 🚀Features<p>
 💥Superfast⚡️ download and stream links.<br>
