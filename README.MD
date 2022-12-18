@@ -48,7 +48,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 ### Deploy on Render
 
-Press the below button to Fast deploy on Render
+Press the button and make ytml folder and deploy on Render
 
 <a href="https://render.com/deploy?repo=https://github.com/KWICBOTS/kwichighspeedbot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
