@@ -1,2 +1,2 @@
-web: python -m Adarsh
+web: python3 -m Adarsh
  
